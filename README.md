@@ -1,1 +1,1 @@
-# Flash Game News
+# FlashGameNews
